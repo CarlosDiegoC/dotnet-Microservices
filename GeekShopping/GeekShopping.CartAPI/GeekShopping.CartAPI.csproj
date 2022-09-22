@@ -20,6 +20,9 @@
 	</ItemGroup>
 	<ItemGroup>
 		<Folder Include="Controllers\" />
+		<Folder Include="Model\Base\" />
+		<Folder Include="Model\Context\" />
+		<Folder Include="Config\" />
 	</ItemGroup>
 
 </Project>
